@@ -1,4 +1,4 @@
-package lendscape.codility;
+package codility;
 
 import java.util.Arrays;
 
